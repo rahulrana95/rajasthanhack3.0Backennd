@@ -1,0 +1,19 @@
+{
+  "name": "rajasthanhackathonbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulrana95/rajasthanhack3.0Backennd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahulrana95/rajasthanhack3.0Backennd/issues"
+  },
+  "homepage": "https://github.com/rahulrana95/rajasthanhack3.0Backennd#readme"
+}
