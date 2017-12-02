@@ -1,19 +1,26 @@
 {
-  "name": "rajasthanhackathonbackend",
+  "name": "rajasthanBackend",
   "version": "1.0.0",
-  "description": "",
+  "description": "backend",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rahulrana95/rajasthanhack3.0Backennd.git"
+    "start": "nodemon index.js -e css,ejs,js,json  "
   },
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rahulrana95/rajasthanhack3.0Backennd/issues"
-  },
-  "homepage": "https://github.com/rahulrana95/rajasthanhack3.0Backennd#readme"
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.5.0",
+    "aws-sdk": "^2.106.0",
+    "bcrypt": "^1.0.3",
+    "body-parser": "^1.15.2",
+    "cloudinary": "^1.9.0",
+    "cors": "^2.8.4",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "multer": "^1.3.0",
+    "mysql": "^2.14.1",
+    "nodemon": "^1.11.0",
+    "reload": "^1.0.0",
+    "request": "^2.81.0"
+  }
 }
